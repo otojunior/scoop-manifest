@@ -1,0 +1,5 @@
+{
+  "url": "https://api.foojay.io/disco/v3.0/ids/13d435f22db72cff63a06a1e441d9e00/redirect#/graalvm-jdk-17.0.12+8.1.zip",
+  "version": "17.0.12",
+  "extract_dir": "graalvm-jdk-17.0.12+8.1"
+}
