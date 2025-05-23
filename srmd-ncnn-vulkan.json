@@ -1,0 +1,8 @@
+{
+  "license": "",
+  "url": "https://github.com/nihui/srmd-ncnn-vulkan/releases/download/20220728/srmd-ncnn-vulkan-20220728-windows.zip",
+  "homepage": "https://github.com/nihui/srmd-ncnn-vulkan",
+  "version": "20220728",
+  "bin": "srmd-ncnn-vulkan.exe",
+  "extract_dir": "srmd-ncnn-vulkan-20220728-windows"
+}
