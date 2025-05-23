@@ -1,0 +1,6 @@
+{
+  "url": "https://git.serpro/estaleiro-console/client/-/releases/v4.31.3/downloads/client_4.31.3_windows_amd64.zip",
+  "homepage": "https://git.serpro/estaleiro-console/client",
+  "version": "4.31.3",
+  "bin": "estaleiro.exe"
+}
