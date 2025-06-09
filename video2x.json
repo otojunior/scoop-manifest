@@ -1,8 +1,7 @@
 {
   "homepage": "https://github.com/k4yt3x/video2x",
-  "url": "https://github.com/k4yt3x/video2x/releases/download/6.4.0/video2x-qt6-windows-amd64.zip",
+  "url": "https://github.com/k4yt3x/video2x/releases/download/6.4.0/video2x-windows-amd64.zip",
   "version": "6.4.0",
-  "hash": "f5b3191fe09998e573ce5df82fce318daed01a7af3b35ee01a3ed81e88c11381",
-  "bin": "video2x-qt6.exe",
-  "shortcuts": [["video2x-qt6.exe", "Video2x-Qt6"]]
+  "hash": "0337b6dcae2bad2fd13e43fbdb73ef728d2f6289f37cc3617e87ac3a1a5cf793",
+  "bin": "video2x.exe"
 }
