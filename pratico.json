@@ -1,6 +1,7 @@
 {
-  "url": "https://git.serpro/dedat/deat4/pratico/-/releases/v0.20.11/downloads/pratico_0.20.11_Windows_x86_64.zip",
   "homepage": "https://git.serpro/dedat/deat4/pratico",
+  "url": "https://git.serpro/dedat/deat4/pratico/-/releases/v0.20.11/downloads/pratico_0.20.11_Windows_x86_64.zip",
   "version": "0.20.11",
+  "hash": "e2801d3895423483ba2fe61fd3b731e89f9c0c12ab361f76ae9f5a9c4d0cb607",
   "bin": "pratico.exe"
 }

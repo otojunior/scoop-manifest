@@ -1,0 +1,9 @@
+{
+  "homepage": "https://github.com/laggykiller/sticker-convert",
+  "url": "https://github.com/laggykiller/sticker-convert/releases/download/v2.13.1.0/sticker-convert-windows-x86_64.zip",
+  "version": "2.13.1.0",
+  "hash": "ac7ca72148209ccc7c8e4b229c8e4d715056c219dc09eb181add54a43071ccc4",
+  "extract_dir": "sticker-convert",
+  "bin": "sticker-convert.exe",
+  "shortcuts": [["sticker-convert.exe", "Sticker Convert"]]
+}

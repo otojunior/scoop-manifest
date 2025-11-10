@@ -1,7 +1,7 @@
 {
-  "license": "",
-  "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip",
   "homepage": "https://github.com/nihui/srmd-ncnn-vulkan",
+  "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip",
   "version": "0.2.5.0",
+  "hash": "abc02804e17982a3be33675e4d471e91ea374e65b70167abc09e31acb412802d",
   "bin": "realesrgan-ncnn-vulkan.exe"
 }

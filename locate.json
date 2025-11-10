@@ -1,0 +1,8 @@
+{
+  "homepage": "https://sourceforge.net/projects/locate32/",
+  "url": "https://netactuate.dl.sourceforge.net/project/locate32/locate32_3.1.11.8220a_fix.zip",
+  "version": "3.1.11.8220a",
+  "hash": "375ce482cec22b2bdf8055eb3eba739083590470f493da5dc6ea072c53da6b2f",
+  "extract_dir": "locate_8220a",
+  "bin": ["locate.exe", "updatedb32.exe"]
+}
