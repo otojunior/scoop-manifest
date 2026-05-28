@@ -1,0 +1,7 @@
+{
+  "homepage": "https://github.com/AnimMouse/ffmpeg-autobuild",
+  "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-04-06-23-14-757cc97-c6e5733/ffmpeg-757cc97-c6e5733-win64-nonfree.7z",
+  "version": "2026-04-06-757cc97",
+  "hash": "5d94c049abd6f990246e2009ba6724b087330d6a614516fa3c227cc653b8e631",
+  "bin": ["ffmpeg.exe", "ffplay.exe", "ffprobe.exe"]
+}
