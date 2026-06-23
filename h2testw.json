@@ -1,0 +1,8 @@
+{
+  "homepage": "https://h2testw.org/",
+  "url": "https://h2testw.org/wp-content/uploads/h2testw_1.4.zip",
+  "version": "1.4",
+  "hash": "0d54b8beca3bc2ebfab543dbe793d52658d278538f9062b816fb77abe2dac187",
+  "bin": "h2testw.exe",
+  "shortcuts": [["h2testw.exe", "H2TestW"]]
+}
