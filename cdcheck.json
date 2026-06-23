@@ -1,0 +1,8 @@
+{
+  "homepage": "https://kvipu.com/CDCheck/",
+  "url": "https://kvipu.com/CDCheck/CDCheck.zip",
+  "version": "3.1.14.0",
+  "hash": "fa72bce0e8977202ba110cefeaf1a6609b4609743ddf903a1529c1ff0e269fd2",
+  "bin": "CDCheck.exe",
+  "shortcuts": [["CDCheck.exe", "CDCheck"]]
+}
