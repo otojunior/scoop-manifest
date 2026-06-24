@@ -1,0 +1,9 @@
+{
+  "homepage": "https://sourceforge.net/projects/victoria-ssd-hdd/",
+  "url": "https://sitsa.dl.sourceforge.net/project/victoria-ssd-hdd/Victoria537.zip",
+  "version": "5.37",
+  "hash": "a66b7869d59bbf90b5994332bac57bcbc0b377cee9f0c59c078795ea7b4c99d1",
+  "bin": "Victoria.exe",
+  "extract_dir": "Victoria537",
+  "shortcuts": [["Victoria.exe", "Victoria HDD"]]
+}
