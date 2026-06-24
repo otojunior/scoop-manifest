@@ -1,0 +1,9 @@
+{
+  "homepage": "https://www.partitionwizard.com/partitionmagic/portable-partition-magic.html",
+  "url": "https://cdn2.minitool.com/?p=pw&e=pwfree-64bit-portable#/dl.zip",
+  "version": "13.6",
+  "hash": "97710556f2477504f996060b22dad79c34a2935cfca0825402939f08f9b07d58",
+  "bin": "partitionwizard.exe",
+  "extract_dir": "pwfree-64bit-portable",
+  "shortcuts": [["partitionwizard.exe", "Partition Wizard"]]
+}
